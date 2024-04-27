@@ -20,8 +20,8 @@ print the characters and its huffmancode
  
 ## Program:
 ```
-NAME : NAGUL K
-REGISTER NUMBER: 212222230089
+NAME : SHARAN MJ
+REGISTER NUMBER: 212222240097
 ```
 # Get the input String
 ```python
